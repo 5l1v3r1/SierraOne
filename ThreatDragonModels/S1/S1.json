@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "S1",
+    "owner": "Berk",
+    "description": "A shared reverse shell that works over Discord. All the traffic flows through discord servers, hiding possible IoC's."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diag1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Berk"
+  }
+}
